@@ -1,0 +1,45 @@
+stage 0: DONE
+design tables & pages
+
+stage 1: STARTED
+create database
+create tables
+
+stage 2: PENDING
+create API for CRUD
+
+stage 3: PENDING
+create frontend from dummy
+    create summary page
+    create view page
+    create register page
+
+stage 4: PENDING
+connect to backend api
+
+stage 5: PENDING
+add pagination in frontend
+add search option
+add advance search
+
+stage 6: PENDING
+add feature for images
+add constraint on image size & crop
+
+stage 7: PENDING
+add email & sms service
+add get_details page
+
+stage 8: PENDING
+add Oauth tokens
+add payment feature
+add Captcha
+
+stage 9: PENDING
+get domain & webspace & website certificate
+
+stage 10: PENDING
+GoLive
+marketing & offers
+
+stage 11: PENDING
